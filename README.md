@@ -46,11 +46,8 @@ print(X)
 ```
 
 ## Output:
-![lu decomposition]()
-<img width="1236" height="949" alt="image" src="https://github.com/user-attachments/assets/3b357a81-d364-49ac-93c5-88eb11b5efae" />
-<img width="1243" height="639" alt="image" src="https://github.com/user-attachments/assets/ef2a827a-c4fa-44d1-8fc4-54a0cbf5c09d" />
-<img width="1218" height="900" alt="image" src="https://github.com/user-attachments/assets/3979d9ed-b777-4f52-ab10-727555b2544b" />
-<img width="1239" height="341" alt="image" src="https://github.com/user-attachments/assets/88a4bc59-415a-46a7-bae4-67076e13663d" />
+<img width="1876" height="1021" alt="image" src="https://github.com/user-attachments/assets/aacc7299-5f86-4e11-8795-f05e94730b13" />
+<img width="1887" height="682" alt="image" src="https://github.com/user-attachments/assets/b358072e-2302-4616-a666-06e27652bd8a" />
 
 
 ## Result:
