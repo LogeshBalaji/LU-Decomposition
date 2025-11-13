@@ -18,8 +18,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: V RISHON ANAND
-RegisterNumber: 212224240135
+Developed by: LOGESH B
+RegisterNumber: 212224110034
 import numpy as np
 from scipy.linalg import lu
 A = np.array(eval(input()))
